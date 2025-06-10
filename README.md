@@ -9,3 +9,7 @@ To address this issue, the client sought a data-driven approach to uncover poten
 2. Visualize gender-related trends across key HR metrics using a clear T-visual format.
 3. Identify root causes contributing to the lack of progress in female leadership representation.
 4. Recommend strategic interventions backed by data to support a more inclusive and equitable workplace.
+
+## Dasboards:
+![dashboard 1](https://github.com/user-attachments/assets/f23b496a-808f-4dd6-a227-2b067095a734)
+![dashboard 2](https://github.com/user-attachments/assets/05419053-52da-4ca7-b066-7afdd062af87)
